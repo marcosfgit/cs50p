@@ -24,7 +24,7 @@ This repository documents my journey through **Harvard University's CS50P**. Mor
 | Week | Topic | Status | Key Projects |
 | :--- | :--- | :---: | :--- |
 | **0** | Functions, Variables | ✅ Done | `indoor.py`, `playback.py`, `faces.py` |
-| **1** | Conditionals | 🚧 Current | `deep.py`, `bank.py`, `meal.py` |
+| **1** | Conditionals | ✅ Done | `deep.py`, `bank.py`, `meal.py` |
 | **2** | Loops | 📅 Next | - |
 | **3** | Exceptions | 📅 Next | - |
 | **4** | Libraries | 📅 Next | - |
