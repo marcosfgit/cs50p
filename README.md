@@ -25,8 +25,8 @@ This repository documents my journey through **Harvard University's CS50P**. Mor
 | :--- | :--- | :---: | :--- |
 | **0** | Functions, Variables | ✅ Done | `indoor.py`, `playback.py`, `faces.py` |
 | **1** | Conditionals | ✅ Done | `deep.py`, `bank.py`, `meal.py` |
-| **2** | Loops | 📅 Next | - |
-| **3** | Exceptions | 📅 Next | - |
+| **2** | Loops | ✅ Done | `camel.py`, `coke.py`, `twttr.py`, `plates.py` |
+| **3** | Exceptions | 🚧 Current | `fuel.py`, `taqueria.py` |
 | **4** | Libraries | 📅 Next | - |
 | **5** | Unit Tests | 📅 Next | - |
 | **6** | File I/O | 📅 Next | - |
