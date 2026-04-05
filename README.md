@@ -23,15 +23,15 @@ This repository documents my journey through **Harvard University's CS50P**. Mor
 
 | Week | Topic | Status | Key Projects |
 | :--- | :--- | :---: | :--- |
-| **0** | Functions, Variables | ✅ Done | `indoor.py`, `playback.py`, `faces.py` |
-| **1** | Conditionals | ✅ Done | `deep.py`, `bank.py`, `meal.py` |
-| **2** | Loops | ✅ Done | `camel.py`, `coke.py`, `twttr.py`, `plates.py` |
-| **3** | Exceptions | 🚧 Current | `fuel.py`, `taqueria.py` |
-| **4** | Libraries | 📅 Next | - |
-| **5** | Unit Tests | 📅 Next | - |
-| **6** | File I/O | 📅 Next | - |
-| **7** | Regular Expressions | 📅 Next | - |
-| **8** | Object-Oriented Programming | 📅 Next | - |
+| **0** | Functions, Variables | ✅ Done | `indoor.py`, `playback.py`, `faces.py`, `einstein.py`, `tip.py` |
+| **1** | Conditionals | ✅ Done | `deep.py`, `bank.py`, `meal.py`, `interpreter.py`, `extensions.py` |
+| **2** | Loops | ✅ Done | `camel.py`, `coke.py`, `twttr.py`, `plates.py`, `nutrition.py` |
+| **3** | Exceptions | ✅ Done | `fuel.py`, `taqueria.py`, `grocery.py`, `outdated.py` |
+| **4** | **Libraries** | 🚀 **CURRENT** | `emojize.py`, `figlet.py`, `adieu.py`, `game.py`, `professor.py`, `bitcoin.py` |
+| **5** | Unit Tests | 📅 Next | `test_twttr.py`, `test_bank.py`, `test_plates.py`, `test_fuel.py` |
+| **6** | File I/O | 📅 Next | `lines.py`, `pizza.py`, `scourgify.py`, `shirt.py` |
+| **7** | Regular Expressions | 📅 Next | `numb3rs.py`, `um.py`, `working.py`, `response.py`, `watch.py` |
+| **8** | Object-Oriented Programming | 📅 Next | `seasons.py`, `jar.py`, `shirtificate.py` |
 
 ---
 
