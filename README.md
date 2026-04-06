@@ -27,7 +27,7 @@ This repository documents my journey through **Harvard University's CS50P**. Mor
 | **1** | Conditionals | ✅ Done | `bank.py`, `meal.py`, `extensions.py` |
 | **2** | Loops | ✅ Done | `coke.py`, `plates.py`, `nutrition.py` |
 | **3** | Exceptions | ✅ Done | `fuel.py`, `taqueria.py`, `outdated.py` |
-| **4** | **Libraries** | 🚀 **CURRENT** | `emojize.py`, `figlet.py`, `adieu.py`, `game.py`, `professor.py`, `bitcoin.py` |
+| **4** | **Libraries** | ✅ Done | `figlet.py`, `professor.py`, `bitcoin.py` |
 | **5** | Unit Tests | 📅 Next | `test_twttr.py`, `test_bank.py`, `test_plates.py`, `test_fuel.py` |
 | **6** | File I/O | 📅 Next | `lines.py`, `pizza.py`, `scourgify.py`, `shirt.py` |
 | **7** | Regular Expressions | 📅 Next | `numb3rs.py`, `um.py`, `working.py`, `response.py`, `watch.py` |
