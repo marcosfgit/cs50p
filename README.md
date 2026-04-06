@@ -23,10 +23,10 @@ This repository documents my journey through **Harvard University's CS50P**. Mor
 
 | Week | Topic | Status | Key Projects |
 | :--- | :--- | :---: | :--- |
-| **0** | Functions, Variables | ✅ Done | `indoor.py`, `playback.py`, `faces.py`, `einstein.py`, `tip.py` |
-| **1** | Conditionals | ✅ Done | `deep.py`, `bank.py`, `meal.py`, `interpreter.py`, `extensions.py` |
-| **2** | Loops | ✅ Done | `camel.py`, `coke.py`, `twttr.py`, `plates.py`, `nutrition.py` |
-| **3** | Exceptions | ✅ Done | `fuel.py`, `taqueria.py`, `grocery.py`, `outdated.py` |
+| **0** | Functions, Variables | ✅ Done | `faces.py`, `tip.py` |
+| **1** | Conditionals | ✅ Done | `bank.py`, `meal.py`, `extensions.py` |
+| **2** | Loops | ✅ Done | `coke.py`, `plates.py`, `nutrition.py` |
+| **3** | Exceptions | ✅ Done | `fuel.py`, `taqueria.py`, `outdated.py` |
 | **4** | **Libraries** | 🚀 **CURRENT** | `emojize.py`, `figlet.py`, `adieu.py`, `game.py`, `professor.py`, `bitcoin.py` |
 | **5** | Unit Tests | 📅 Next | `test_twttr.py`, `test_bank.py`, `test_plates.py`, `test_fuel.py` |
 | **6** | File I/O | 📅 Next | `lines.py`, `pizza.py`, `scourgify.py`, `shirt.py` |
