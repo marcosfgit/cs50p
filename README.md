@@ -2,7 +2,6 @@
 
 ![CS50P](https://img.shields.io/badge/Course-Harvard_CS50P-blue?style=for-the-badge&logo=harvard)
 ![Status](https://img.shields.io/badge/Status-In_Progress-green?style=for-the-badge)
-![Progress](https://img.shields.io/badge/Progress-50%25-brightgreen?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-Python_3-yellow?style=for-the-badge&logo=python)
 
 ## 🎯 Project Overview
@@ -30,8 +29,8 @@ This repository documents my journey through **Harvard University's CS50P**. Mor
 | **2** | Loops | ✅ Done | `coke.py`, `plates.py`, `nutrition.py` |
 | **3** | Exceptions | ✅ Done | `fuel.py`, `taqueria.py`, `outdated.py` |
 | **4** | **Libraries** | ✅ Done | `figlet.py`, `professor.py`, `bitcoin.py` |
-| **5** | Unit Tests | 📅 Next | `test_twttr.py`, `test_bank.py`, `test_plates.py`, `test_fuel.py` |
-| **6** | File I/O | ⏳ Pending | `lines.py`, `pizza.py`, `scourgify.py`, `shirt.py` |
+| **5** | Unit Tests | ✅ Done | `test_bank.py`, `test_plates.py`, `test_fuel.py` |
+| **6** | File I/O | 📅 Next | `lines.py`, `pizza.py`, `scourgify.py`, `shirt.py` |
 | **7** | Regular Expressions | ⏳ Pending | `numb3rs.py`, `um.py`, `working.py`, `response.py`, `watch.py` |
 | **8** | Object-Oriented Programming | ⏳ Pending | `seasons.py`, `jar.py`, `shirtificate.py` |
 | **9** | Et Cetera | ⏳ Pending | `final_project.py` |
