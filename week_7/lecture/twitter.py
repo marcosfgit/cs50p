@@ -14,7 +14,7 @@
 
 #import re
 
-#rl = input("URL: ").strip()
+#url = input("URL: ").strip()
 
 #username = re.sub(r"^(https?://)?(www\.)?twitter\.com/", "", url)
 #print(f"Username: {username}")
