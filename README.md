@@ -31,8 +31,8 @@ This repository documents my journey through **Harvard University's CS50P**. Mor
 | **4** | Libraries | ✅ Done | `figlet.py`, `professor.py`, `bitcoin.py` |
 | **5** | Unit Tests | ✅ Done | `test_bank.py`, `test_plates.py`, `test_fuel.py` |
 | **6** | File I/O | ✅ Done | `pizza.py`, `scourgify.py`, `shirt.py` |
-| **7** | Regular Expressions | 📅 Next | `numb3rs.py`, `um.py`, `working.py`, `response.py`, `watch.py` |
-| **8** | Object-Oriented Programming | ⏳ Pending | `seasons.py`, `jar.py`, `shirtificate.py` |
+| **7** | Regular Expressions | ✅ Done | `numb3rs.py`, `working.py`, `watch.py` |
+| **8** | Object-Oriented Programming | 📅 Next | `seasons.py`, `jar.py`, `shirtificate.py` |
 | **9** | Et Cetera | ⏳ Pending | `final_project.py` |
 
 ---
