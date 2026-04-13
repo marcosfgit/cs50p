@@ -1,6 +1,6 @@
 """
 CS50P Final Project: Python Proficiency Quiz
-Author: Marcos [Teu Sobrenome]
+Author: Marcos Freitas
 Description: A command-line quiz game that tests Python knowledge 
              with questions loaded from a CSV file.
 """
