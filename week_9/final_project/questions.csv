@@ -1,0 +1,201 @@
+question,choice_a,choice_b,choice_c,choice_d,answer,level
+Who created Python?,Guido van Rossum,Elon Musk,Bill Gates,Mark Zuckerberg,A,Easy
+Which extension is used for Python files?,.pt,.py,.pyt,.pw,B,Easy
+How do you start a comment in Python?,//,/*,#,!,C,Easy
+What is the output of print(2 + 2)?,22,4,5,None,B,Easy
+Which keyword is used to define a function?,func,define,def,function,C,Easy
+Which data type is used for 'True'?,String,Integer,Boolean,Float,C,Easy
+How do you create a variable 'x' with value 5?,x = 5,int x = 5,x := 5,var x = 5,A,Easy
+What does 'len()' do?,Deletes a list,Returns length,Adds a number,Prints text,B,Easy
+Which function gets input from the user?,get(),read(),input(),scan(),C,Easy
+What is the result of 10 / 2?,5,5.0,2,10,B,Easy
+How do you create a list?,( ),{ },[ ],< >,C,Easy
+Which keyword is used for a loop?,while,for,Both A and B,loop,C,Easy
+What does 'print()' do?,Saves a file,Displays output,Deletes data,Calculates math,B,Easy
+Is Python case-sensitive?,Yes,No,Only for numbers,Only for strings,A,Easy
+Which character is used for string assignment?,=,==,:,->,A,Easy
+How do you write 'Hello' in Python?,print('Hello'),echo 'Hello',printf('Hello'),system.out('Hello'),A,Easy
+What is the correct way to start an 'if' statement?,if x > y then:,if x > y:,if (x > y),if x > y,B,Easy
+Which of these is a Float?,1,1.0,One,True,B,Easy
+What does CS50 stand for?,Computer Science 50,Coding System 50,Cyber Security 50,Core Science 50,A,Easy
+What is the default value of a function with no return?,0,False,None,Null,C,Easy
+How do you square a number x?,x^2,x**2,x^^2,sqr(x),B,Easy
+Which is not a legal variable name?,my_var,myVar,2myvar,_myvar,C,Easy
+How do you create a string?,'Hello',"""Hello""",'''Hello''',All of these,D,Easy
+What is the result of 3 * 3?,6,9,12,27,B,Easy
+Which operator is used for equality?,=,==,===,!=,B,Easy
+What is the output of bool(0)?,True,False,Error,None,B,Easy
+How do you call a function named 'hello'?,hello(),call hello(),hello.,run hello(),A,Easy
+Which of these is a string?,123,['123'],'123',12.3,C,Easy
+What does the '#' symbol do?,Division,Multiplication,Comment,Modulo,C,Easy
+Which collection is ordered and changeable?,List,Tuple,Set,Dictionary,A,Easy
+What is the value of 5 % 2?,2.5,1,0,2,B,Easy
+How do you stop a loop?,exit,stop,break,end,C,Easy
+What is the first index in a list?,1,0,-1,Any,B,Easy
+Which data type is '1.5'?,Int,Str,Float,Bool,C,Easy
+What does 'upper()' do?,Deletes text,Makes text uppercase,Makes text lowercase,Counts text,B,Easy
+Which is a valid boolean?,TRUE,true,True,T,C,Easy
+How do you combine two strings?,x + y,x . y,x & y,x * y,A,Easy
+What is the result of '1' + '1'?,2,11,Error,None,B,Easy
+Which is used to define a block of code?,Brackets,Indentation,Parentheses,Quotes,B,Easy
+What does 'int()' do?,Converts to integer,Creates an internal variable,Increments value,Imports data,A,Easy
+Which library handles math?,science,math,calculus,numbers,B,Easy
+What is the output of 10 - 5?,5,15,50,0,A,Easy
+How do you write a list inside a list?,Embedded,Joined,Nested,Grouped,C,Easy
+What is 'None'?,A number,Zero,A special constant,An error,C,Easy
+Which function displays a type?,type(),kind(),class(),get_type(),A,Easy
+How do you open a file in Python?,open(),read(),file(),load(),A,Easy
+What is the keyword for 'else if'?,elseif,elsif,elif,else if,C,Easy
+What is the index of the last item in a list?,last,end,-1,0,C,Easy
+Which is an assignment operator?,==,=,!,++,B,Easy
+What does 'str()' do?,Starts a string,Converts to string,Strips text,Splits text,B,Easy
+Which method adds an element to a list?,add(),insert(),append(),extend(),C,Medium
+What is a tuple?,Mutable list,Immutable list,Dictionary,Set,B,Medium
+What is the output of 10 // 3?,3.33,3,3.0,4,B,Medium
+How do you remove an item by value?,delete(),remove(),pop(),discard(),B,Medium
+Which operator is for exponentiation?,^,**,pow,exp,B,Medium
+What is a dictionary?,List of numbers,Key-Value pairs,Set of strings,Function type,B,Medium
+How do you get keys from a dict 'd'?,d.all(),d.values(),d.keys(),d.items(),C,Medium
+What does 'strip()' do?,Removes vowels,Removes whitespace,Splits string,Reverses string,B,Medium
+What is the result of bool([])?,True,False,Error,None,B,Medium
+Which loop runs as long as a condition is true?,for,while,do-while,foreach,B,Medium
+What is 'f-string'?,Function string,Formatted string,File string,Fast string,B,Medium
+How do you import a module 'math'?,using math,include math,import math,get math,C,Medium
+What is the result of 3 == '3'?,True,False,Error,None,B,Medium
+Which method converts string to lowercase?,low(),lower(),small(),down(),B,Medium
+What is 'range(5)'?,0 to 5,1 to 5,0 to 4,1 to 4,C,Medium
+What does 'pop()' do?,Adds item,Removes last item,Removes first item,Clears list,B,Medium
+How do you access 'name' in {'name': 'Leo'}?,dict[0],dict['name'],dict.name,dict(name),B,Medium
+What is the output of 'hello'[1]?,h,e,l,o,B,Medium
+Which method joins a list of strings?,concat(),join(),merge(),link(),B,Medium
+How do you check if 'a' is in a list?,if a in list:,if a exists:,if list.has(a):,if a.is_in(list):,A,Medium
+What is a set?,Ordered list,Unordered unique items,Key-value pair,Immutable list,B,Medium
+How do you define a class?,class MyClass:,define MyClass:,object MyClass:,new MyClass:,A,Medium
+What does 'sorted()' return?,The same list,A new sorted list,None,A dictionary,B,Medium
+What is 'round(3.5)'?,3,4,3.0,4.0,B,Medium
+Which is used to handle exceptions?,catch,try-except,error-handle,check,B,Medium
+How do you add multiple items to a list?,append(),extend(),add(),plus(),B,Medium
+What is a lambda function?,Named function,Anonymous function,Class method,Imported module,B,Medium
+What is the result of 2 ** 3?,6,8,9,5,B,Medium
+How do you write a multi-line string?,' ' ',""" "" """,Both are correct,None,C,Medium
+What is 'sys.argv'?,System version,Command line arguments,File path,Variable list,B,Medium
+How do you check the type of 'x'?,x.type(),type(x),typeof(x),kind(x),B,Medium
+Which method splits a string?,break(),split(),divide(),cut(),B,Medium
+What is the default return of a function?,False,0,None,True,C,Medium
+How do you create an empty set?,{},set(),[],(),B,Medium
+What is the output of 'Python'.find('y')?,0,1,2,-1,B,Medium
+Which keyword ignores the rest of the loop?,stop,pass,continue,skip,C,Medium
+What is 'random.choice()' used for?,Sorting,Selecting random item,Generating number,Shuffling,B,Medium
+How do you create a tuple with one item?,(1),"(1,)",tuple(1),[1],B,Medium
+What is 'enumerate()' used for?,Math,Loop with index,Filtering,Sorting,B,Medium
+Which operator is 'Not Equal'?,!,<>,!=,==,C,Medium
+What does 'dict.items()' return?,Only keys,Only values,List of tuples,Count of items,C,Medium
+Which is used to read all lines of a file?,read(),readlines(),get(),scan(),B,Medium
+How do you convert a string to a list?,list(s),s.to_list(),s.split(),Both A and C,D,Medium
+What is 'zip()' used for?,Compressing files,Combining iterables,Sorting lists,Fast loops,B,Medium
+What is the result of 'a' * 3?,aaa,3a,Error,"a,a,a",A,Medium
+How do you define a global variable inside a function?,global x,x = global,extern x,var x,A,Medium
+Which module handles regular expressions?,reg,re,regex,expression,B,Medium
+What is a 'with' statement used for?,Fast code,Context managers,Loops,Classes,B,Medium
+"What is the result of len({'a': 1, 'b': 2})?",1,2,4,0,B,Medium
+Which data type is mutable?,Tuple,String,List,Integer,C,Medium
+What is 'List Comprehension'?,Sorting tool,Concise list creation,String filter,Memory manager,B,Hard
+What is the difference between 'is' and '=='?,No difference,"is checks identity, == value","is checks value, == identity",is for strings,B,Hard
+What does 'pip' stand for?,Python Install Pack,Preferred Installer Program,Python Input,Program Installer,B,Hard
+How do you handle a specific exception?,except:,except ValueError:,catch ValueError:,handle:,B,Hard
+What is the output of type(lambda x: x)?,function,lambda,object,class,A,Hard
+What is a decorator?,A UI tool,Function modifying another,Class attribute,A list style,B,Hard
+Which method is called on object creation?,__init__,__new__,__start__,__main__,A,Hard
+What does 'self' represent?,The class,The instance,Global variable,A private key,B,Hard
+What is 'json.dumps()'?,Reads JSON,Converts Python to JSON string,Downloads JSON,Deletes JSON,B,Hard
+Which keyword is used to raise an exception?,throw,error,raise,trigger,C,Hard
+How do you inherit a class?,class A(B):,class A inherits B:,class A:B,class A extends B:,A,Hard
+What is 'args' and 'kwargs'?,Fixed arguments,Variable arguments,System paths,Boolean flags,B,Hard
+What does 'sys.exit()' do?,Restarts,Terminates script,Closes file,Clears memory,B,Hard
+Which module is used for unit testing in Python?,test,unittest,pytest,Both B and C,D,Hard
+What is a 'shallow copy'?,Copies references,Copies entire object,Deletes original,Moves memory,A,Hard
+What is 'pickle' used for?,Debugging,Serialization,Filtering,Sorting,B,Hard
+How do you create a private variable?,private x,x_,__x,hidden x,C,Hard
+What is 'CSV' short for?,Comma Separated Values,Common Serial Variable,Code Syntax Value,None,A,Hard
+What is 'os.path.exists()'?,Creates a path,Checks if path exists,Deletes a path,Lists files,B,Hard
+What is 'any()' function?,Returns True if all true,Returns True if any true,Returns False,None,B,Hard
+What is 'all()' function?,Returns True if all true,Returns True if any true,Returns False,None,A,Hard
+How do you check if a class is a subclass?,isinstance(),issubclass(),checkclass(),type(),B,Hard
+What is a 'Docstring'?,Code error,Documentation string,String variable,Function name,B,Hard
+What is the output of 'math.ceil(1.1)'?,1,2,1.0,1.5,B,Hard
+Which method is used for string formatting?,format(),printf(),string(),map(),A,Hard
+What is 'iter()' used for?,Looping,Creating an iterator,Deleting items,Counting,B,Hard
+What does 'next()' do with an iterator?,Restarts,Returns next item,Stops,Skips,B,Hard
+What is a 'set comprehension'?,Like list comprehension for sets,A way to sort sets,A dictionary tool,None,A,Hard
+What is 'Counter' in collections?,Timer,Hashable object counter,Loop tracker,File counter,B,Hard
+What is 'map()' function?,Shows a map,Applies function to iterable,Filters data,Joins strings,B,Hard
+What is 'filter()' function?,Sorts data,Selects items by condition,Deletes data,Searches text,B,Hard
+How do you open a file for appending?,'r','w','a','x',C,Hard
+What is 'time.sleep(1)'?,Waits 1 minute,Waits 1 second,Waits 1 hour,Stops code,B,Hard
+What is 'sys.path'?,Current file path,List of search paths for modules,User path,Binary path,B,Hard
+How do you get the current working directory?,os.cwd(),os.getcwd(),os.path(),os.dir(),B,Hard
+"What is '__name__ == ""__main__""'?",Class name,Script entry point check,Function name,Module name,B,Hard
+What is a 'Nested Function'?,Function inside function,Function in a list,Function in a class,None,A,Hard
+What is 're.search()'?,Finds all matches,Finds first match,Replaces text,Splits text,B,Hard
+Which method finds all regex matches?,search(),match(),findall(),group(),C,Hard
+What is 'try-finally'?,Ignores error,Code that always runs,Error handler,Stops code,B,Hard
+What is a 'Global Interpreter Lock' (GIL)?,Security tool,Mutex for thread safety,DB lock,File lock,B,Hard
+How do you check if an attribute exists?,hasattr(),getattr(),exists(),check(),A,Hard
+What is 'getattr()' used for?,Set value,Get attribute value,Delete attr,Check attr,B,Hard
+What is 'super()' used for?,Calling parent class,Speeding code,Global access,High level math,A,Hard
+Which method deletes an object?,__del__,del(),remove(),stop(),A,Hard
+What is 'itertools' used for?,Math,Efficient looping,File I/O,Networking,B,Hard
+What is a 'Lambda' return type?,Integer,Any,None,Boolean,B,Hard
+What is 'functools.reduce()'?,Minimizes list,Applies function cumulatively,Filters list,Sorts list,B,Hard
+What is 'f.close()'?,Opens file,Closes file,Deletes file,Reads file,B,Hard
+What is 'requirements.txt'?,List of dependencies,Project manual,Error log,Code file,A,Hard
+What is a 'metaclass'?,Parent class,Class of a class,Private class,Hidden class,B,Veteran
+What is 'yield' used for?,Ends function,Creating a generator,Handling errors,Class methods,B,Veteran
+What are '__slots__'?,Faster loops,Limits memory by fixed attributes,Code gaps,Function slots,B,Veteran
+What is a 'generator expression'?,Like list comp but lazy,A class tool,Math function,None,A,Veteran
+What is the output of '2 ** 3 ** 2'?,64,512,18,81,B,Veteran
+What is 'MRO' in Python?,Method Reset Order,Method Resolution Order,Main Run Object,Module Read Only,B,Veteran
+What is a 'Descriptor'?,String desc,Class with __get__ method,File type,Variable name,B,Veteran
+What does 'classmethod' decorator do?,Makes it private,Passes class as first arg,Passes instance,None,B,Veteran
+What does 'staticmethod' decorator do?,Makes it private,No automatic first arg,Passes class,None,B,Veteran
+What is 'abstract base class' (ABC)?,Base for all classes,Class that cannot be instantiated,Private class,Math class,B,Veteran
+How does Python manage memory?,Manual,Automatic Garbage Collection,Bios,It doesn't,B,Veteran
+What is 'Reference Counting'?,Math tool,Memory management technique,Loop counter,Variable counter,B,Veteran
+What is the 'Walrus Operator' (:=)?,Equality,Assignment expression,Comparison,Modulo,B,Veteran
+What is 'Type Hinting'?,Variable types,Documentation tool,Static type checking help,All of these,D,Veteran
+What is a 'Context Manager' protocol?,__enter__ and __exit__,__start__ and __stop__,__init__ and __del__,None,A,Veteran
+What is 'monkey patching'?,Bug fixing,Dynamic modification at runtime,Code cleaning,Version control,B,Veteran
+What is 'introspection'?,Self-debugging,Code ability to examine its type,Logic check,None,B,Veteran
+What is 'dunder' method?,Double underline method,Debug method,Fast method,Private method,A,Veteran
+What is the output of 'round(0.5) - round(-0.5)'?,1,0,2,-1,B,Veteran
+What is 'bytearray'?,Immutable bytes,Mutable sequence of bytes,Text type,Integer list,B,Veteran
+What is 'asyncio' used for?,Math,Asynchronous I/O,File sync,Classes,B,Veteran
+What does 'await' do?,Stops code,Pauses coroutine,Ends script,Starts loop,B,Veteran
+What is 'threading' in Python?,Running code in parallel,Running code in one process,File management,GUI tool,A,Veteran
+What is 'multiprocessing'?,Different threads,Different CPU processes,Memory tool,None,B,Veteran
+What is the 'Global' keyword scope?,Entire system,Module level,Function level,Class level,B,Veteran
+What is 'Nonlocal' keyword?,Global access,Access to enclosing scope,Access to class,None,B,Veteran
+What is 'property' decorator?,Sets price,Getter/Setter/Deleter for attr,Makes it public,None,B,Veteran
+What is '__call__' method?,Calls a class,Makes instance callable like function,Calls a file,None,B,Veteran
+What is '__getitem__'?,Sets item,Makes object indexable,Gets file,None,B,Veteran
+What is a 'weakref'?,Strong link,Reference that doesn't stop GC,Deleted ref,None,B,Veteran
+What is 'gc.collect()'?,Deletes files,Manually triggers garbage collection,Sorts data,None,B,Veteran
+What is 'f-string' with '='?,Assignment,Displays name and value for debug,Math check,None,B,Veteran
+What is 'collections.deque'?,Dictionary,Double-ended queue,List,Set,B,Veteran
+What is 'heapq' used for?,Sorting,Priority queue algorithms,Memory stack,None,B,Veteran
+What is 'bisect' module?,Splits files,Binary search/insert in sorted list,Math tool,None,B,Veteran
+What is 'dis' module?,Distance,Disassembler for Python bytecode,Debug info,None,B,Veteran
+What is '__repr__'?,User string,Official string for developers,Binary data,None,B,Veteran
+"What is the result of 'bool(""False"")'?",True,False,Error,None,A,Veteran
+What is 'dataclass'?,Class for data only,Decorator for data-oriented classes,DB connection,None,B,Veteran
+What is 'enum' module?,Enumerations,Numbers,Math,Strings,A,Veteran
+What is 'hash()'?,Security tool,Returns hash value of object,Random number,None,B,Veteran
+Which objects are hashable?,Lists,Dictionaries,"Immutables (Tuple, Str, Int)",Sets,C,Veteran
+What is 'functools.lru_cache'?,Clears cache,Least Recently Used cache decorator,Fast memory,None,B,Veteran
+What is 'inspect' module?,Checks files,Examines live objects,Virus scan,None,B,Veteran
+What is 'typing.Any'?,Any string,Any data type,Empty type,None,B,Veteran
+What is 'pathlib'?,String paths,Object-oriented filesystem paths,Web paths,None,B,Veteran
+What is 'Walrus' operator availability?,Python 2,Python 3.8+,Python 3.0,Python 3.5,B,Veteran
+What is 'Ellipsis' (...)?,Error,Placeholder object,End of code,None,B,Veteran
+What is '__dict__' attribute?,Dictionary of class attributes,Function list,Method list,None,A,Veteran
+What is the result of 'id(x)'?,Variable name,Memory address,Value,Type,B,Veteran

@@ -1,7 +1,7 @@
 # 🐍 Harvard CS50P - Introduction to Programming with Python
 
 ![CS50P](https://img.shields.io/badge/Course-Harvard_CS50P-blue?style=for-the-badge&logo=harvard)
-![Status](https://img.shields.io/badge/Status-In_Progress-green?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen?style=for-the-badge)
 ![Language](https://img.shields.io/badge/Language-Python_3-yellow?style=for-the-badge&logo=python)
 
 ## 🎯 Project Overview
@@ -24,7 +24,7 @@ This repository documents my journey through **Harvard University's CS50P**. Mor
 
 | Week | Topic | Status | Key Projects |
 | :--- | :--- | :---: | :--- |
-| **0** | Functions, Variables | ✅ Done | `faces.py`, `tip.py` |
+| **0** | Functions, Variables | ✅ Done | `faces.py`, `tip.py`, `einstein.py` |
 | **1** | Conditionals | ✅ Done | `bank.py`, `meal.py`, `extensions.py` |
 | **2** | Loops | ✅ Done | `coke.py`, `plates.py`, `nutrition.py` |
 | **3** | Exceptions | ✅ Done | `fuel.py`, `taqueria.py`, `outdated.py` |
@@ -33,7 +33,7 @@ This repository documents my journey through **Harvard University's CS50P**. Mor
 | **6** | File I/O | ✅ Done | `pizza.py`, `scourgify.py`, `shirt.py` |
 | **7** | Regular Expressions | ✅ Done | `numb3rs.py`, `working.py`, `watch.py` |
 | **8** | Object-Oriented Programming | ✅ Done | `seasons.py`, `jar.py`, `shirtificate.py` |
-| **9** | Et Cetera | ⏳ Current | `final_project.py` |
+| **9** | Et Cetera | ✅ Done | `final_project.py` |
 
 ---
 
